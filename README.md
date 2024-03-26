@@ -8,7 +8,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow%20Me-orange)](https://www.kaggle.com/yalgar0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yalgar0/) --> 
 
-- 🔭 I’m currently working on **Image Segmentation & ASR (real time automatic speech recognition)**
 
 - 🌱 I’m currently advancing my **DS and ML skills.**
 
