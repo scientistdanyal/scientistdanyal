@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **strong mentorship that will help enhance my expertise in Data Science and Machine Learning.**
 
-- 💬 Ask me about **python, scraping, data analytics, DS & ML**
+- 💬 Ask me about **python, scraping, data analytics(SQL, EXCEL, PowerBi), DS & ML**
 
 - 📫 How to reach me **dk.yalgar@gmail.com**
 
