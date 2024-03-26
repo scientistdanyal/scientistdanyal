@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danyal Ahmed</h1>
-<h3 align="center">I am a Computer Science student at NUML (National University of Modern Languages). I am an entrepreneur at Dice Analytics, working as a junior Data Scientist.</h3>
+<h3 align="center">I am a Computer Science student at NUML (National University of Modern Languages)..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yalgar0&label=Profile%20views&color=0e75b6&style=flat" alt="yalgar0" /> </p>
 <!-- ![Author](https://img.shields.io/badge/Author-Nhi%20Yen-brightgreen)
