@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/yalgar0/) --> 
 
 
-- 🌱 I’m currently advancing my **DS and ML skills.**
+- 🌱 MERN Stack Development: MongoDB, Express.js, React.js, Node.js**
 
 - 🤝 I’m looking for help with **strong mentorship that will help enhance my expertise in Data Science and Machine Learning.**
 
